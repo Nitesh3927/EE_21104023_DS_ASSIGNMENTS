@@ -67,15 +67,9 @@ void display(Node* &head){
 int main(){
     
     Node* head = NULL;
-   
-    insertElement(head, 10);
-    insertElement(head, 20);
-    insertElement(head, 30);
-    insertElement(head, 40);
-    insertElement(head, 50);
-    insertElement(head, 60);
-    insertElement(head, 70);
-
+    for(int i=0; i <10;i++){
+    	insertElement(head, 2*i);
+    }
     display(head);
  
     return 0;
