@@ -1,0 +1,6 @@
+The practical applications of a circular linked list are
+1. It is used in multiplayer games where turns of the player are in a circular order for example Ludo
+2. In old games like GTA the mouse wheel was used to scroll between the weapons that is an example of circular linked list
+3. In car racing games between the cars right and left Arrow keys were used this is an example of double circular linked list
+4. When we press tab on the desktop it rotates between pined taskbar shortcuts then right hand corner day time volume and then the items on the desktop
+5. Circular link list is used in the undo functionality which is used in many softwares
